@@ -1,24 +1,9 @@
-# README
+# Plantilla Agency de Bootstrap integrada en proyecto Rails 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- La creación de este proyecto está detallada en [Hola Ruby!](https://www.holaruby.com/bootstrap_rails "Hola Ruby!")
 
-Things you may want to cover:
+- Este proyecto tiene fines únicamente educativos.
 
-* Ruby version
+- Puedes encontrarlo en vivo en [este link](https://rails6-bootstrap-agency.herokuapp.com/ "Rails6 & Bootstrap Agency template"), sin embargo notarás que la página tarda en cargar porque utiliza un servidor gratuito.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Gracias por pasarte por aquí =)
